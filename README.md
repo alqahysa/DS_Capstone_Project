@@ -16,7 +16,7 @@ the system to provide
 
 In this project we aim at extracting a conceptual model that can staderized the understanding of the requiermens among stakeholders, product owner and development team. The extraction process can be applied with help of the NLP techniques since the input of is a requierments that written in English.To achive this goal, we went through several stages as below:
 - Data Collection
-- Data Munjing
+- Data Munging
 - Annotating Data
 - Train NER Model
 
